@@ -1,0 +1,77 @@
+=============================================================
+ROOMIO US - QUICK CHANGES PREVIEW
+=============================================================
+
+🌐 PREVIEW URL: http://localhost:8080
+
+=============================================================
+PRICING CHANGES (All pages updated)
+=============================================================
+
+BEFORE (Australian):
+→ Professional floor plans from AUD$15
+→ 3D floor plans AUD$20
+→ Inexpensive house floor plans for just AUD$15
+→ Currency: AUD
+
+AFTER (US Version):
+→ Professional floor plans from $9
+→ 3D floor plans $13
+→ Inexpensive house floor plans for just $9
+→ Currency: USD
+
+=============================================================
+LANGUAGE CHANGES (Examples from site)
+=============================================================
+
+BEFORE → AFTER
+--------------------------------
+customisation → customization
+organisation → organization
+optimisation → optimization
+colour → color
+metre → meter
+en-AU → en-US
+
+=============================================================
+PAGES AVAILABLE
+=============================================================
+
+✅ Homepage:           http://localhost:8080/
+✅ Contact:            http://localhost:8080/contact/
+✅ Articles:           http://localhost:8080/articles/
+✅ Privacy Policy:     http://localhost:8080/privacy-policy/
+✅ EULA:               http://localhost:8080/eula/
+✅ Terms & Conditions: http://localhost:8080/terms-and-conditions/
+
+=============================================================
+ASSETS DOWNLOADED
+=============================================================
+
+✅ 18 Images (logos, hero, features, testimonials)
+✅ 2 CSS Stylesheets
+✅ 3 JavaScript Files
+✅ All branding and layout preserved
+
+=============================================================
+TECHNICAL STATUS
+=============================================================
+
+Server:     Python HTTP Server (PID 846)
+Port:       8080
+Status:     ✅ RUNNING
+Location:   /home/node/.openclaw/workspace-webdev/sites/roomio-us/
+
+=============================================================
+WORDPRESS DEPLOYMENT
+=============================================================
+
+Structure ready for WordPress:
+✅ Standard wp-content folder layout
+✅ Clean, semantic HTML
+✅ Mobile-responsive
+✅ All assets organized
+
+Estimated deployment time: 4-6 hours
+
+=============================================================
